@@ -1,8 +1,6 @@
 ---
 Name: dotnet-counters.exe
 Description: .NET diagnostic tool for monitoring performance counters and runtime metrics of .NET applications in real-time.
-Aliases:
-  - dotnet counters
 Author: Iván Cabrera
 Created: 2026-08-27
 Commands:
