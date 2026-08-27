@@ -9,7 +9,7 @@ Commands:
   - Command: dotnet-counters.exe collect --duration 1 -- calc.exe
     Description: Collect performance counter data for the process or command executed
     Usecase: Trace child process execution, capture process creation events and system calls from launched applications for reconnaissance and analysis
-    Category: Execution
+    Category: Execute
     Privileges: User
     MitreID: T1059
     OperatingSystem: Windows 10 All, Windows 11 All
